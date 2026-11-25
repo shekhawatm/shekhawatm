@@ -25,7 +25,7 @@
 
 ## 🧰 My sourcing toolkit (built 24 Nov 2026)
 
-Six tools that cover sourcing end to end:
+Six tools that cover sourcing end-to-end:
 
 | | Tool | What it does | Repo |
 |---|---|---|---|
@@ -44,8 +44,19 @@ Six tools that cover sourcing end to end:
 
 ---
 
+
+## 🕵️ Sourcing hacks I know
+
+I know the non-traditional ways to find people, beyond the usual job boards and LinkedIn searches:
+
+🧩 **Chrome extensions** that speed up research and outreach
+🕸️ **Scrapers** that collect public profiles at scale
+📧 **Email finders** that turn a name into a way to reach them
+✅ **Email verification** so outreach lands and sender reputation stays clean
+🧭 **Unconventional sourcing tools** that uncover talent most recruiters never see
+
 ## 📬 Let's connect
 
-💼 LinkedIn: ADD YOUR LINKEDIN URL
-✉️ Email: ADD YOUR PERSONAL EMAIL
+💼 LinkedIn:https://www.linkedin.com/in/manishshekhawatradar/
+✉️ Email: shekhawatm57@gmail.com
 🏢 Fireflies.ai: https://fireflies.ai
