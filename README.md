@@ -7,7 +7,7 @@
 
 ## 🙋 About me
 
-🧭 6 years at Fireflies.ai, leading global operations and people: hiring, People Ops and payroll for a remote-first team.
+🧭 6+years at Fireflies.ai, leading global operations and people: hiring, People Ops and payroll for a remote-first team.
 🤖 Not a software engineer by trade, but I love building the tools my team needs, with Claude and AI agents.
 📦 I use GitHub to keep that work versioned and shareable.
 🎯 Current goal: build a daily commit habit and reach 1,000+ commits.
