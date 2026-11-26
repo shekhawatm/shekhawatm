@@ -3,6 +3,8 @@
 ### 🚀 Operations and people leader at Fireflies.ai
 ### 🛠️ I build the hiring and HR systems that let a lean team scale globally
 
+🌐 **Portfolio:** [manish-portfolio-sepia.vercel.app](https://manish-portfolio-sepia.vercel.app)
+
 ---
 
 ## 🙋 About me
@@ -29,7 +31,7 @@ Six tools that cover sourcing end-to-end:
 
 | | Tool | What it does | Repo |
 |---|---|---|---|
-| 🔎 | xray-finder | One precise X-ray search string across 16 networks, with a plain-English explanation | https://github.com/shekhawatm/xray-finder |
+| 🔎 | xray-finder | One precise X-ray search string across 16 networks, with a plain-English explanation | 🔒 Private for now |
 | 🧩 | boolean-search-stringer | Every ready-made search string for a role in one pass | 🔒 Private for now |
 | 🧑‍💻 | talent-search | Plain-words search and a shortlist for each role | 🔒 Private for now |
 | 🗂️ | sourcing-desk | One open role, start to finish: JD, where to look, target companies, candidates | 🔒 Private for now |
