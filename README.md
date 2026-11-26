@@ -3,13 +3,11 @@
 ### 🚀 Operations and people leader at Fireflies.ai
 ### 🛠️ I build the hiring and HR systems that let a lean team scale globally
 
-🌐 **Portfolio:** [manish-portfolio-sepia.vercel.app](https://manish-portfolio-sepia.vercel.app)
-
 ---
 
 ## 🙋 About me
 
-🧭 6+years at Fireflies.ai, leading global operations and people: hiring, People Ops and payroll for a remote-first team.
+🧭 10+ years at a fast-paced org and 6+ years at Fireflies.ai, leading global operations and people: hiring, People Ops and payroll for a remote-first team.
 🤖 Not a software engineer by trade, but I love building the tools my team needs, with Claude and AI agents.
 📦 I use GitHub to keep that work versioned and shareable.
 🎯 Current goal: build a daily commit habit and reach 1,000+ commits.
@@ -62,3 +60,4 @@ I know the non-traditional ways to find people, beyond the usual job boards and 
 💼 LinkedIn:https://www.linkedin.com/in/manishshekhawatradar/
 ✉️ Email: shekhawatm57@gmail.com
 🏢 Fireflies.ai: https://fireflies.ai
+🌐 Website: https://manish-portfolio-sepia.vercel.app/
