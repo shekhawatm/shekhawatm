@@ -33,7 +33,7 @@ I build the hiring and HR systems that let a lean team scale globally, with Clau
 
 ## 🛠️ What I've built (as of 27 Nov 2026)
 
-### 🧰 Sourcing Hub · [live ↗](https://sourcing-hub-wheat.vercel.app)
+### 🧰 Sourcing Hub ·
 
 One connected hub for sourcing every open role, from the first search to the report leadership reads. Whatever you save in one tool shows up in the next.
 
@@ -71,7 +71,7 @@ Built with Claude for my team's day-to-day work. Internal, so no public links.
 
 ### 🌐 My portfolio · [visit ↗](https://manish-portfolio-sepia.vercel.app)
 
-**[manish-portfolio](https://github.com/shekhawatm/manish-portfolio)**: my personal site, with a home page, five short subpages and Ollie the owl as guide. Built with Next.js, Tailwind and Framer Motion.
+**[manish-portfolio](https://github.com/shekhawatm/manish-portfolio)**: my personal site, with a home page, five short subpages and Ollie the owl as a guide. Built with Next.js, Tailwind and Framer Motion.
 
 ---
 
