@@ -19,6 +19,7 @@ I build the hiring and HR systems that let a lean team scale globally, with Clau
 - 🤖 Not a software engineer by trade, but I build the tools my team needs with **Claude, Claude Code and AI agents**
 - 📦 GitHub keeps that work versioned and shareable
 - 🎯 Current goal: a daily commit habit and **1,000+ commits**
+- 🌐 My personal site, with a home page, five short subpages and Ollie the owl as a guide. Built with Next.js, Tailwind and Framer Motion.
 
 ## 🔍 What I work on
 
@@ -68,8 +69,6 @@ Built with Claude for my team's day-to-day work. Internal, so no public links.
 | 🔥 | **Campfire Live Tracker** | A live view of everyone in Campfire, our onboarding trial: who's in, reviews due, check-ins, feedback and shipped work, pulled from Notion, Slack, Steady, Shortcut and GitHub |
 | 📈 | **Team Performance Tracker** | One live view of how the team is performing, so trends and gaps show up early |
 | 🧳 | **Handover playbook** | Everything the team needs to keep hiring and payroll moving while I'm away |
-
-### 🌐 [manish-portfolio](https://github.com/shekhawatm/manish-portfolio)**: my personal site, with a home page, five short subpages and Ollie the owl as a guide. Built with Next.js, Tailwind and Framer Motion.
 
 ---
 
