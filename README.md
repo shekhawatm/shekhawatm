@@ -24,7 +24,7 @@ I build the hiring and HR systems that let a lean team scale globally, with Clau
 
 | | Area | Focus |
 |---|---|---|
-| 🌍 | **Global hiring** | Engineering, design, marketing and ops roles across the US, LATAM, Europe and India |
+| 🌍 | **Global hiring** | Engineering, design, marketing and ops roles across the US, LATAM, Europe and India etc |
 | 🤝 | **People Ops** | Onboarding, policies, contractor and vendor payments |
 | 💸 | **Payroll** | Accurate, on-time payments across countries |
 | 🧠 | **AI-assisted HR** | Agents built with Claude and MCP connectors for sourcing, screening and reporting |
