@@ -69,7 +69,7 @@ Built with Claude for my team's day-to-day work. Internal, so no public links.
 | 📈 | **Team Performance Tracker** | One live view of how the team is performing, so trends and gaps show up early |
 | 🧳 | **Handover playbook** | Everything the team needs to keep hiring and payroll moving while I'm away |
 
-### 🌐 My portfolio · [visit ↗](https://manish-portfolio-sepia.vercel.app)
+### 🌐 My portfolio ·
 
 **[manish-portfolio](https://github.com/shekhawatm/manish-portfolio)**: my personal site, with a home page, five short subpages and Ollie the owl as a guide. Built with Next.js, Tailwind and Framer Motion.
 
@@ -95,7 +95,7 @@ The non-traditional ways to find people, beyond job boards and LinkedIn searches
 
 ### 📬 Let's connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/manishshekhawatradar/) · ✉️ [shekhawatm57@gmail.com](mailto:shekhawatm57@gmail.com) · 🏢 [Fireflies.ai](https://fireflies.ai) · 🌐 [Website](https://manish-portfolio-sepia.vercel.app/)
+💼 [LinkedIn](https://www.linkedin.com/in/manishshekhawatradar/) · ✉️ [shekhawatm57@gmail.com](mailto:shekhawatm57@gmail.com) · 🏢 [Fireflies.ai](https://fireflies.ai) 
 
 <sub>Built with 🤖 Claude Code</sub>
 
